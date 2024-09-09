@@ -1,7 +1,7 @@
 # Movie Recommender System
 
 This project is a content-based movie recommender system designed to provide personalized movie suggestions based on user preferences. It leverages natural language processing (NLP) and machine learning techniques to analyze movie descriptions and generate relevant recommendations.
-Website live link: https://movie-recommender-system-g2i0.onrender.com/
+Website live link: [https://movie-recommender-system.com/](http://16.171.14.163:8501/)
 ## Features
 
 - **Content-Based Filtering**: Recommends movies based on the similarity of content features, such as plot descriptions and genres.
